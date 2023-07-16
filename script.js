@@ -1,4 +1,4 @@
-import {Cxmssg} from "../../Estudos-programação/Caixa personalizada/cxmsg.js"
+import {Cxmssg} from "./cxmsg.js"
 
 const telaLogin = document.querySelector("#login")
 const emailInfo =document.querySelector("#emailInfo")
