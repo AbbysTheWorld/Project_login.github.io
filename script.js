@@ -135,6 +135,6 @@ info.addEventListener("click",()=>{
     cor:"#505"
   }
   Cxmssg.config(config2)
-  Cxmssg.mostrar("Informações sobre a criação do site","Esse site foi desenvolvido usando medias queries,localStorage alem de usar modulos!")
+  Cxmssg.mostrar("Informações sobre a criação do site","Esse site foi desenvolvido usando medias queries e localStorage!")
 
 })
