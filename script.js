@@ -1,4 +1,4 @@
-import {Cxmssg} from "./cxmsg.js"
+import {Cxmssg} from "cxmsg.js"
 
 const telaLogin = document.querySelector("#login")
 const emailInfo =document.querySelector("#emailInfo")
