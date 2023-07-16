@@ -11,7 +11,7 @@ btnLogar.addEventListener("click",() => {
   localStorage.setItem("email",inputEmail.value)
   localStorage.setItem("password",inputSenha.value)
   setTimeout(() => {
-    window.location = "../Home.html"
+    window.location = "../index.html"
   },2000)
   }
 })
