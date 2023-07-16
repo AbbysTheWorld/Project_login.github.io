@@ -1,5 +1,3 @@
-import {Cxmssg} from "cxmsg.js"
-
 const telaLogin = document.querySelector("#login")
 const emailInfo =document.querySelector("#emailInfo")
 const main = document.querySelector("main")
